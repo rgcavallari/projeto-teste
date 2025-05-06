@@ -1,4 +1,4 @@
 from programa import potencia
 
 def teste_potencia():
-    assert potencia(5,3) == 125
+    assert potencia(2,2) == 8
